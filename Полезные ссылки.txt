@@ -1,0 +1,107 @@
+Редактор кода: https://code.visualstudio.com/
+Emmet - https://www.youtube.com/watch?v=RfFtACtO998
+https://docs.emmet.io/
+ 
+На уроке:
+ 
+float - https://jsbin.com/logetejehi/1/edit?html,css,output, https://jsbin.com/cezepodixa/1/edit?html,css,output
+position - https://jsbin.com/wuqupefero/1/edit?html,css,output, https://jsbin.com/xuniwocohi/1/edit?html,css,output
+применение css генератора - https://jsbin.com/hapesowaka/1/edit?html,css,output
+Блочная вёрстка на примере банки с водой - https://jedicss.com/jar-and-block/
+ 
+ 
+Важное:
+ 
+Валидатор html - https://validator.w3.org/
+Валидатор css - https://jigsaw.w3.org/css-validator/
+ 
+Спецификация HTML5.2 https://www.w3.org/TR/html52/
+Спецификация HTML Living Standart https://html.spec.whatwg.org/multipage/
+Normalize - http://necolas.github.io/normalize.css/
+Emmet - https://www.youtube.com/watch?v=mGPZ8P7xDLE
+Документация по плагину emmet - https://docs.emmet.io/
+Cхема выбора семантического тега - http://css-live.ru/wp-content/uploads/2012/07/html5-flowchart-ru.png -
+Как отличить контентное изображение от декоративного - https://htmlacademy.ru/blog/153-content-or-decor-img
+Руководство по оформлению HTML/CSS кода от Google - https://habrahabr.ru/post/143452/
+Типограф - https://www.artlebedev.ru/typograf/
+Перенос слов - http://htmlbook.ru/blog/perenosy-slov, https://toster.ru/q/234369
+ 
+Можно ли вкладывать тег в другой тег: https://caninclude.glitch.me/
+Популярные слова для наименования классов: https://github.com/yoksel/common-words
+ 
+MDN https://developer.mozilla.org/ru/docs/Web
+WebReference https://webref.ru/
+ 
+Cхема выбора семантического тега - http://css-live.ru/wp-content/uploads/2012/07/html5-flowchart-ru.png
+ 
+Секционные семантические теги:
+<main> - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main, https://webref.ru/html/main
+<article> - https://webref.ru/html/article
+<aside> - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
+<section> - https://developer.mozilla.org/ru/docs/Web/HTML/Element/section
+<figure> и <figcaption> - https://webref.ru/html/figure, https://web-standards.ru/articles/figure-figcaption/
+<details> и <summary> - https://developer.mozilla.org/ru/docs/Web/HTML/Element/details
+ 
+Семантические теги разметки текста
+<mark> - http://htmlbook.ru/html/mark
+<time> - https://webref.ru/html/time
+<wbr> - https://webref.ru/html/wbr
+ 
+Информация о github
+ 
+Урок 1 - https://www.youtube.com/watch?v=4-NX17Ip-xQ
+Урок 2 - https://www.youtube.com/watch?v=K9fkejaywBM
+Урок 3 - https://www.youtube.com/watch?v=CVwgJROa-HQ
+Урок 4 - https://www.youtube.com/watch?v=sfepg2HJNpQ
+Урок 5 - https://www.youtube.com/watch?v=yh1qMy4NqT8
+Урок 6 - https://www.youtube.com/watch?v=lCB_EH10JfI
+Урок 7 - https://www.youtube.com/watch?v=7bO6eLE1GtM
+Урок 8 - https://www.youtube.com/watch?v=Z44qK3gCHtg
+Урок 9 - https://www.youtube.com/watch?v=5dyhqSIan58
+Урок 10 - https://www.youtube.com/watch?v=XDA0eMp4TWk
+Урок 11 - https://www.youtube.com/watch?v=71f-PieIJOo
+
+ 
+Обновленный курс - https://geekbrains.ru/courses/1117 (поиск по "Git. Базовый курс"или "Введение в Git")
+ 
+GitHub desktop - https://desktop.github.com/
+GitHub для самых маленьких - https://www.youtube.com/watch?v=Rke_Z1-nvUM
+ 
+ 
+Как сделать свой первый Pull Request -
+https://rustycrate.ru/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2016/03/07/contributing.html
+ 
+ 
+Полезные сайты:
+
+ 
+https://caniuse.com/#home
+http://www.w3schools.com/
+https://validator.w3.org
+https://developer.mozilla.org
+https://webref.ru/
+http://htmlbook.ru/
+http://html5doctor.com/
+https://webref.ru/
+https://developer.mozilla.org/ru/
+
+ 
+ 
+Сервисы для работы с макетом
+ 
+https://zeplin.io
+https://avocode.com/
+https://www.markupeasy.ru/
+https://psdetch.com/
+https://www.figma.com/, конвертация psd в sketch - https://avocode.com/convert-psd-to-sketch
+ 
+ 
+ 
+ 
+В Е Б И Н А Р Ы
+ 
+Вёрстка онлайн - https://www.youtube.com/watch?v=kGOhBptkOYU, https://www.youtube.com/watch?v=lIeM6VlPPjM
+Ускоренная вёрстка 2 - https://www.youtube.com/watch?v=bH06VaCQRH0
+Ускоряем вёрстку! - https://www.youtube.com/watch?v=__83DFcEQGI
+Вёрстка landing page часть 1 - https://www.youtube.com/watch?v=9bszQEMDwRI
+Вёрстка landing page часть 2 - https://www.youtube.com/watch?v=a1oiDygiLP4
