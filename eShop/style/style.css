@@ -38,6 +38,7 @@ body {
   width: 111px;
   justify-content: space-between;
   align-items: flex-end;
+  margin-left: 230px;
 }
 .page-header .container .page-header-left-block .header-logo {
   display: block;
@@ -94,6 +95,7 @@ body {
   width: 168px;
   justify-content: space-between;
   align-items: flex-end;
+  margin-right: 230px;
   /* ======================= */
   /* === end mobile menu === */
   /* === account-btn === */
@@ -628,10 +630,9 @@ body {
 }
 .subscribe .subscribe-info {
   display: flex;
-  margin: 0 340px 0 0;
-  justify-content: center;
-  align-items: flex-start;
-  flex-wrap: wrap;
+  flex-direction: column;
+  margin: 0 auto;
+  align-items: center;
   width: 360px;
 }
 .subscribe .subscribe-info .subscribe-info-avatar {
@@ -658,6 +659,7 @@ body {
 }
 .subscribe .subscribe-form-wrp {
   width: 355px;
+  margin-right: 230px;
 }
 .subscribe .subscribe-form-wrp .subscribe-form-title,
 .subscribe .subscribe-form-wrp .subscribe-form-subtitle {
@@ -689,10 +691,11 @@ body {
 .subscribe .subscribe-form-wrp .subscribe-form .subscribe-form-email {
   display: flex;
   align-items: center;
+  margin: 0;
   padding: 20px;
   box-sizing: border-box;
   border: none;
-  border-radius: 20px 0 0 20px;
+  border-radius: 50px 0 0 50px;
   background-color: #E1E1E1;
   font-style: normal;
   font-weight: 400;
@@ -703,10 +706,11 @@ body {
 }
 .subscribe .subscribe-form-wrp .subscribe-form .subscribe-form-btn {
   display: block;
+  margin: 0;
   padding: 20px;
   box-sizing: border-box;
   border: none;
-  border-radius: 0 20px 20px 0;
+  border-radius: 0 50px 50px 0;
   background-color: #F16D7F;
   font-style: normal;
   font-weight: 400;
@@ -748,6 +752,7 @@ body {
   font-size: 16px;
   line-height: 19.2px;
   color: #FBFBFB;
+  margin-left: 160px;
 }
 
 .page-footer-socials {
@@ -755,6 +760,7 @@ body {
   justify-content: space-between;
   align-items: center;
   width: 148px;
+  margin-right: 110px;
 }
 
 .page-footer-socials-item {
