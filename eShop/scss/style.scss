@@ -833,11 +833,6 @@ body {
     }
 }
 
-
-
-
-
-
   /* ======= end subscribe ======= */
   
   /* ======= page-footer ======= */
@@ -899,3 +894,151 @@ body {
     box-sizing: border-box;
   }
   
+/* ======= catalog ======= */
+
+.catalog-header {
+    width: 100%;
+    max-width: $width;
+    height: 148px;
+    background: #F8F3F4;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    .catalog-header-left {
+        margin-left: 230px;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 29px;
+        color: #F16D7F;
+    }
+
+    .catalog-header-right {
+        display: flex;
+        height: 29px;
+        align-items: flex-end;
+        margin-right: 230px;
+        list-style: none;
+        
+
+        .catalog-header-li {
+            font-family: Lato;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 17px;
+            color: #636363;
+            a {
+                color: #636363;
+                &:hover {
+                    text-decoration: underline;
+                }
+                .nav-position {                
+                    color: #F16D7F;
+                    font-weight: bold;                
+                }       
+            }
+        }        
+    }
+}
+
+.catalog-filters {
+    max-width: 920px;
+    height: 125px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    margin-left: 0;
+    
+
+    .main-filter {
+        margin-left: 246px;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+
+        .filter-main-icon {
+            width: 15px;
+            height: 10px;
+
+            svg {
+                fill: #000;
+            }
+        }
+
+
+color: #000000;
+        #filter-main {
+            display: none;
+        }
+    }
+
+    .addictive-filters {
+        width: 296px;
+        margin-left: 304px;
+        text-decoration: none;
+
+
+        .add-filters-box {
+            max-width: 297px;
+            display: flex;
+            list-style: none;
+
+            .add-filters-li {
+                display: flex;
+                font-size: 14px;
+line-height: 17px;
+            }
+            
+            .add-filter-svg {
+                margin-left: 10px;
+            }
+        }
+    }
+}
+
+/* без свойств из catalog-products ломается margin между колонками */
+
+.catalog-products {
+    .catalog-head {
+        display: none;
+    }
+    .hack-fix {
+        margin: 0 0 0 0;
+    }
+}
+
+.pangination {
+    margin-top: 48px;
+    width: 284px;
+    height: 44px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    border: 1px solid #ebebeb;
+    border-radius: 5%;
+    padding-inline-start: 0;
+    padding: 0;
+    font-weight: 300;
+    margin-bottom: 96px;
+    font-size: 16px;
+    line-height: 19px;
+
+    img {
+        margin: 0;
+    }
+    
+    .pangination-link {
+        color: #c4c4c4;
+        margin: 0 8px;
+    }
+
+    .active {
+        color: #ef5b70;
+    }
+
+}
