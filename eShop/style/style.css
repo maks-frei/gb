@@ -892,3 +892,31 @@ body {
 .catalog-products .hack-fix {
   margin: 0 0 0 0;
 }
+
+.pangination {
+  margin-top: 48px;
+  width: 284px;
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  border: 1px solid #ebebeb;
+  border-radius: 5%;
+  padding-inline-start: 0;
+  padding: 0;
+  font-weight: 300;
+  margin-bottom: 96px;
+  font-size: 16px;
+  line-height: 19px;
+}
+.pangination img {
+  margin: 0;
+}
+.pangination .pangination-link {
+  color: #c4c4c4;
+  margin: 0 8px;
+}
+.pangination .active {
+  color: #ef5b70;
+}
